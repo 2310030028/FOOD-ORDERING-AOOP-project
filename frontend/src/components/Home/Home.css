@@ -1,0 +1,14 @@
+.banner{
+    background-image: url('https://st4.depositphotos.com/19960896/27843/i/450/depositphotos_278432578-stock-photo-indian-food-platter-hindu-veg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 90vh;
+}
+.cover
+{
+    width: 100%;
+    height: 90vh;
+    background-color: black;
+    opacity: 0.4;
+}

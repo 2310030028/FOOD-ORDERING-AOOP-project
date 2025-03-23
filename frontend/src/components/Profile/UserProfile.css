@@ -1,0 +1,8 @@
+.custom-button {
+  background-color: rgb(233, 30, 99);
+  color: white;
+}
+
+.custom-button:hover {
+  background-color: rgb(200, 20, 80);
+}
