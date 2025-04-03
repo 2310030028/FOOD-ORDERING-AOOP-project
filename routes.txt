@@ -1,3 +1,0 @@
-/ = home
-/myprofile = accounts
-u see options of routes in /myprofile
